@@ -1,2 +1,1 @@
-## My Name Is Betty
-## Who am I ?  
+## My Name Is Betty  
